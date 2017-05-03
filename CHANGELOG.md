@@ -1,5 +1,31 @@
 # Change Log
 
+## [v1.4.2](https://github.com/nubisproject/nubis-jumphost/tree/v1.4.2) (2017-05-03)
+[Full Changelog](https://github.com/nubisproject/nubis-jumphost/compare/v1.4.1...v1.4.2)
+
+**Closed issues:**
+
+- Add nubis/builder/artifacts/AMIs.json to .gitignore [\#123](https://github.com/nubisproject/nubis-jumphost/issues/123)
+- Get rid of NUBIS\_MIGRATE, it was never a good idea [\#121](https://github.com/nubisproject/nubis-jumphost/issues/121)
+- IAM policy too broad [\#37](https://github.com/nubisproject/nubis-jumphost/issues/37)
+
+**Merged pull requests:**
+
+- Add nubis/builder/artifacts/AMIs.json to .gitignore [\#124](https://github.com/nubisproject/nubis-jumphost/pull/124) ([gozer](https://github.com/gozer))
+- Get rid of NUBIS\_MIGRATE [\#122](https://github.com/nubisproject/nubis-jumphost/pull/122) ([gozer](https://github.com/gozer))
+
+## [v1.4.1](https://github.com/nubisproject/nubis-jumphost/tree/v1.4.1) (2017-04-11)
+[Full Changelog](https://github.com/nubisproject/nubis-jumphost/compare/v1.4.0...v1.4.1)
+
+**Closed issues:**
+
+- Tag v1.4.1 release [\#118](https://github.com/nubisproject/nubis-jumphost/issues/118)
+
+**Merged pull requests:**
+
+- Merge v1.4.1 release into develop. \[skip ci\] [\#120](https://github.com/nubisproject/nubis-jumphost/pull/120) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v1.4.1 release \[skip ci\] [\#119](https://github.com/nubisproject/nubis-jumphost/pull/119) ([tinnightcap](https://github.com/tinnightcap))
+
 ## [v1.4.0](https://github.com/nubisproject/nubis-jumphost/tree/v1.4.0) (2017-03-23)
 [Full Changelog](https://github.com/nubisproject/nubis-jumphost/compare/v1.3.0...v1.4.0)
 
