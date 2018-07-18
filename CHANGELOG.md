@@ -1,5 +1,12 @@
 # Change Log
 
+## [v2.3.0](https://github.com/nubisproject/nubis-jumphost/tree/v2.3.0) (2018-07-17)
+[Full Changelog](https://github.com/nubisproject/nubis-jumphost/compare/v2.2.0...v2.3.0)
+
+**Merged pull requests:**
+
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#184](https://github.com/nubisproject/nubis-jumphost/pull/184) ([nubis-automation](https://github.com/nubis-automation))
+
 ## [v2.2.0](https://github.com/nubisproject/nubis-jumphost/tree/v2.2.0) (2018-04-06)
 [Full Changelog](https://github.com/nubisproject/nubis-jumphost/compare/v2.1.0...v2.2.0)
 
@@ -10,9 +17,12 @@
 - Linting [\#174](https://github.com/nubisproject/nubis-jumphost/issues/174)
 - Use nubis-terraform/images for image search [\#172](https://github.com/nubisproject/nubis-jumphost/issues/172)
 - Expose purpose for jumphost [\#157](https://github.com/nubisproject/nubis-jumphost/issues/157)
+- Tag v2.2.0 release [\#180](https://github.com/nubisproject/nubis-jumphost/issues/180)
 
 **Merged pull requests:**
 
+- Update CHANGELOG for v2.2.0 release \[skip ci\] [\#182](https://github.com/nubisproject/nubis-jumphost/pull/182) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.2.0 release \[skip ci\] [\#181](https://github.com/nubisproject/nubis-jumphost/pull/181) ([nubis-automation](https://github.com/nubis-automation))
 - Fix \#178 [\#179](https://github.com/nubisproject/nubis-jumphost/pull/179) ([gozer](https://github.com/gozer))
 - Tag project as platform [\#177](https://github.com/nubisproject/nubis-jumphost/pull/177) ([limed](https://github.com/limed))
 - Linting project [\#176](https://github.com/nubisproject/nubis-jumphost/pull/176) ([limed](https://github.com/limed))
